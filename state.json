@@ -1,13 +1,60 @@
 {
-  "round": 0,
+  "round": 1,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 0,
-  "spendUsd": 0,
+  "stalls": 1,
+  "spendUsd": 0.11204380000000001,
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
-  "scenariosHash": null,
-  "lessons": null,
-  "rounds": []
+  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
+  "lessons": {
+    "promptHash": "e0bcf5906bafe7f73c44b3adbfff16837461a7754af586c6b599bf630265fa32",
+    "rows": [
+      {
+        "id": "s1",
+        "score": 62,
+        "reply": "Sorry the jeans don't fit right! Since they arrived last week, you're well within our return window. Here's how to proceed:\n\n**Check the item's condition first.** To be eligible, the jeans need to be unworn, unwashed, and still have their tags attached. If they meet that, you can start the return at loomandlark.com/returns.\n\n**Refund details:**\n- Your refund goes back to your original payment method.\n- A $7.95 return shipping fee is deducted from the refund.\n- Refunds take 5-10 business days to appear after our warehouse receives the return.\n\n**Other options:**\n- **Exchange for another size:** Exchanges ship free and have a longer window (45 days from delivery). With an instant exchange, the new size ships as soon as your return label is printed, so you don't have to wait for the return to"
+      },
+      {
+        "id": "s13",
+        "score": 62,
+        "reply": "Sorry the size isn't right! Good news: gifts can be returned even without a receipt, and your aunt doesn't need to be told.\n\nHere's how it works:\n\n1. **Find the order number.** It should be on the packing slip that came in the package. That's what we use to verify the gift.\n2. **Start the return at loomandlark.com/returns** and enter the order number when prompted.\n3. **Choose your option.** Gift returns are for store credit, and you get a 10% bonus on top of that. Store credit returns ship free. If you want a different size, you can also do an exchange, and it ships free too.\n4. **Return window:** 30 days from delivery for returns, or 45 days for exchanges. Please check the delivery date against that.\n5. **Condition:** the item needs to be unworn, unwashed, and have its tags attached. If "
+      },
+      {
+        "id": "s6",
+        "score": 72,
+        "reply": "I'm sorry you're still waiting on order #LL20418. I'm not able to look up live tracking from here, so I can't see where the package is right now. Here's how to find out quickly:\n\n1. **Check your shipping confirmation email** for a tracking number and carrier link. The tracking page will show the latest scan.\n2. **Compare timing.** Orders ship in 1-2 business days, then standard delivery takes 3-5 business days. A week has passed, so it's now past the typical window.\n3. **If tracking shows \"delivered\" but you don't have it:** check with neighbors, your building's front desk or mailroom, and around your porch. Then wait 48 hours and contact the carrier. We can't reship or refund a package marked delivered unless you had Order Protection.\n4. **If tracking is stuck or shows no movement:** cont"
+      },
+      {
+        "id": "s25",
+        "score": 72,
+        "reply": "Hi there, happy to help with both!\n\n**Exchange (black tee S to white M):** Exchanges are available within 45 days of delivery for another size or color. Just make sure the tee is unworn, unwashed, and has its tags attached. You can start the exchange at loomandlark.com/returns. If you choose an instant exchange, the white M will ship as soon as your return label is printed. Also, if the black tee is marked Final Sale or came from the Archive Sale, it isn't eligible for exchange, so check that first.\n\n**Free shipping:** We offer free US shipping on orders over $75. Your current order is $70, so adding socks would only help if the socks bring the total above $75. For example, socks priced at $5 or more would get you there. If your order is a set like the Lounge Set, keep in mind that sets mu"
+      },
+      {
+        "id": "s26",
+        "score": 72,
+        "reply": "An instant exchange ships the new item as soon as the return label is printed, so you don't have to wait for the original item to reach us first. The exchange itself is covered by our 45-day exchange window from delivery.\n\nSince your wedding is in 10 days, here's what I'd suggest:\n\n1. Start the exchange at loomandlark.com/returns and print the return label.\n2. Ship the original item back promptly, since that's what gets the process moving.\n3. Once the label is printed, the bigger size ships right away. Standard delivery is 3-5 business days after the 1-2 business day processing time, so please order and print the label as early as you can to leave yourself a buffer.\n\nI don't have access to live order status, so if you'd like a delivery estimate for your specific order, you can email help@l"
+      },
+      {
+        "id": "s4",
+        "score": 78,
+        "reply": "I'm sorry the linen shirt doesn't fit. Unfortunately, items in the Archive Sale are final sale, so they can't be exchanged or returned, including for a different size. That applies even though it's within the usual exchange window.\n\nHere are a couple of options that might help:\n\n- **Check if it's damaged or defective:** If the shirt arrived with a flaw, email photos to help@loomandlark.com within 90 days of delivery, and we'll offer a replacement or a full refund, shipping included.\n- **Look for a medium elsewhere:** If you'd like a medium in the same style, you can check whether it's available on our regular site, since non-sale items are eligible for exchanges.\n\nIf you have the order number handy, I'm happy to help you figure out next steps. Is there anything else I can help with?"
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "at": "2026-11-02T02:21:46.576Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: won 15 and lost 7 scenarios, which could be noise",
+        "candidate-2: 84.9 did not beat 85.3 by 2",
+        "candidate-3: won 12 and lost 10 scenarios, which could be noise"
+      ],
+      "costUsd": 0.11204380000000001,
+      "writeUsd": 0.065442
+    }
+  ]
 }
