@@ -12,48 +12,43 @@
     "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
     "rows": [
       {
-        "id": "s9",
-        "reply": "I'm sorry about that! Since it's been more than an hour since you ordered, the order can't be changed by us now, but please email help@loomandlark.com right away anyway so the team can check whether it's still unpacked, and if it's already shipped you can refuse or return it once it arrives.",
-        "better": "I'm sorry, that's stressful! Unfortunately, address changes can only be made within 1 hour of ordering, and since 20 minutes have passed, you're still inside that window. Please email help@loomandlark.com right away with your order number and the correct address so the team can try to update it before the order is packed. I can't confirm whether the change will go through, so please act now.\n\nIf the order has already shipped or can't be changed, you'd need to return it once it arrives. Returns are accepted within 30 days of delivery, and the item must be unworn, unwashed, with tags attached. Start a return at loomandlark.com/returns.",
+        "id": "s7",
+        "reply": "I'm sorry about this, and since you purchased Order Protection, you're covered. File a claim at loomandlark.com/claim within 30 days of the expected delivery date for a free reship or refund. It may also help to check with neighbors or your building's front desk while you file, since the carrier can sometimes mark packages delivered to the wrong spot.",
+        "better": "I'm sorry about that, and since you added Order Protection, you can file a claim at loomandlark.com/claim for a free reship or refund. Please file within 30 days of the expected delivery date, and keep your order number handy.",
         "violation": true
       },
       {
         "id": "s13",
-        "reply": "Good news: since it's a gift, you can exchange it for another size or return it for store credit, and your aunt won't be notified. Just check the packing slip for the order number, which you'll need when you start the return at loomandlark.com/returns. Exchanges are available for 45 days from delivery and store credit returns ship free and include a 10% bonus.",
-        "better": "Good news: as a gift recipient, you can return it for store credit as long as you have the order number from the packing slip, and your aunt won't be notified. Since I don't have your order details, I can't give you an exact delivery date, but if you share your order number I can look into it. Returns must be within 30 days of delivery, unworn with tags attached, and you can start one at loomandlark.com/returns.",
+        "reply": "Good news: as a gift recipient, you can exchange it or return it for store credit without your aunt being told, as long as the order number is on the packing slip. Start a return at loomandlark.com/returns, and if you're looking for a different size, an exchange is within 45 days of delivery. Exchanges are available for another size or color, and the new item ships as soon as the return label is printed.",
+        "better": "Good news: since it's a gift, you can return it for store credit as long as the order number is on the packing slip, and your aunt won't be notified. Start the return at loomandlark.com/returns within 30 days of delivery, and if you'd rather swap for a different size, you have 45 days for an exchange. Since I don't know your order details, I can't give you an exact delivery date, but orders ship in 1-2 business days and arrive in 3-5 business days after that.",
         "violation": true
       },
       {
-        "id": "s22",
-        "reply": "I'm really sorry you had a reaction like that, and I hope the rash is improving. Please email help@loomandlark.com with photos of the item and your order number so our team can look into it and help you with a return or refund, and if the rash is severe or spreading, please see a doctor.",
-        "better": "I'm really sorry you went through that. A rash from a reaction like this is uncomfortable, and I hope you're feeling better soon. If it's spreading, causing trouble breathing, or getting worse, please see a doctor or urgent care right away.\n\nBecause this is a health concern, I'd like to pass your message to our team at help@loomandlark.com so they can look into the dye used in those leggings. If you can, please send photos of the rash and the leggings' tag or product name, along with your order number, so they have what they need.\n\nIf the leggings are still unworn and unwashed with tags attached, you can also start a return within 30 days of delivery at loomandlark.com/returns. Our team can help you decide the best next step once they've looked into your message.",
+        "id": "s20",
+        "reply": "I'm sorry about the shrinkage! Unfortunately, returns require items to be unwashed with tags attached, so a washed shirt isn't eligible for a standard return. If the shirt is defective, though, you can email photos to help@loomandlark.com within 90 days of delivery and we'll review a replacement or full refund, shipping included.",
+        "better": "I'm sorry the shirt shrank! Unfortunately, returns require items to be unwashed with tags attached, so a washed item isn't eligible for a standard return. Since it shrank, you can email photos to help@loomandlark.com within 90 days of delivery to ask about a replacement or refund, and I can help with that next.",
+        "violation": true
+      },
+      {
+        "id": "s30",
+        "reply": "Bonjour ! Oui, c'est possible : les retours sont acceptés dans les 30 jours suivant la livraison, à condition que la robe soit non portée, non lavée et avec ses étiquettes. Vous pouvez démarrer votre retour sur loomandlark.com/returns.\n\nLe remboursement sera effectué sur votre moyen de paiement d'origine, avec des frais de retour de 7,95 $ déduits.",
         "violation": true
       },
       {
         "id": "s1",
-        "reply": "I'm sorry the jeans don't fit, and I can help you with a return. Since they were delivered last week and are within the 30-day window, you can start one at loomandlark.com/returns, as long as they're unworn, unwashed, and still have their tags. Refunds go back to your original payment method minus a $7.95 return shipping fee, and take 5-10 business days to post once our warehouse receives the return.",
-        "better": "I'm sorry the jeans don't fit at the waist. That's frustrating, especially after waiting for them to arrive.\n\nSince fit is the issue, you have a few options:\n\n- **Exchange for a different size** (45 days from delivery). Both the exchange and the new item ship free. With an instant exchange, the new size ships as soon as your return label is printed.\n- **Store credit** (30 days from delivery). You get a 10% bonus on the amount, and the return ships free.\n- **Refund to your original payment method** (30 days from delivery). A $7.95 return shipping fee is deducted from the refund.\n\nRefunds take 5-10 business days after our warehouse receives the return.\n\nTo start a return or exchange, go to loomandlark.com/returns. The jeans need to be unworn and unwashed, with tags attached.\n\nIf you'd like t",
-        "violation": false
-      },
-      {
-        "id": "s3",
-        "reply": "Unfortunately, our standard return window is 30 days from delivery, so a dress delivered 38 days ago falls outside it. The exception is an exchange, which is available for 45 days from delivery, so you could still exchange it for another size or color if that would help. Let me know if you'd like the details on that.",
-        "better": "Thanks for reaching out! Unfortunately, returns are accepted within 30 days of delivery, so a dress delivered 38 days ago is outside the standard return window.\n\nA few options that may still be open to you:\n\n- **Exchange:** Exchanges are accepted for 45 days from delivery, so you have about 7 more days to exchange it for a different size or color. Exchanges ship free, and the new item ships as soon as your return label is printed. You can start one at loomandlark.com/returns.\n- **Check the item's status:** If the dress is marked Final Sale (including anything in the Archive Sale), it can't be returned or exchanged at all.\n\nIf you have questions about your specific order, email help@loomandlark.com with your order number.",
+        "reply": "I'm sorry the jeans didn't fit, and I can help you start a return. Since they arrived last week, you're well within our 30-day window, as long as they're unworn, unwashed, and still have their tags attached. You can start the return at loomandlark.com/returns; refunds go back to your original payment method minus the $7.95 return shipping fee, and take 5-10 business days after the warehouse receives them.",
+        "better": "I'm sorry the jeans don't fit right! Since they were delivered last week, you're within our 30-day return window, provided they're unworn, unwashed, and still have tags attached. You can start the return at loomandlark.com/returns, and the refund goes back to your original payment method minus a $7.95 return shipping fee.",
         "violation": false
       },
       {
         "id": "s6",
-        "reply": "I'm sorry you're still waiting on order #LL20418, and I'd like to help you track it down.\n\nI can't look up live order status from here, so please check the shipping confirmation email for your tracking number, or email help@loomandlark.com with your order number for an update.",
-        "better": "I'm sorry your order has taken this long. I can't see order details or tracking from here, so I can't tell you where #LL20418 is right now.\n\nHere's how to find out:\n\n- **Check your shipping confirmation email.** It includes the tracking link and the carrier's latest scan.\n- **Standard timing:** orders ship within 1-2 business days, then take 3-5 business days for standard delivery. If it's been a week, the package may be delayed, so the tracking page is the quickest place to look.\n- **If tracking shows delivered but you can't find it:** check with neighbors or your building, then wait 48 hours and contact the carrier. If you ordered Order Protection, you can file a claim at loomandlark.com/claim within 30 days of the expected delivery date.\n- **If tracking hasn't updated or shows a problem",
+        "reply": "I'm sorry your order has taken this long! I don't have access to live order tracking, so I can't see where #LL20418 is right now. Please email help@loomandlark.com with your order number, and our team can check the status for you.",
+        "better": "I'm sorry for the wait, and I'd love to help track down order #LL20418. I don't have live tracking details in front of me, so the best place to check the current status is your order confirmation email or your account page at loomandlark.com. Standard delivery takes 3-5 business days after the 1-2 business days it takes us to ship, so if it's been a week, it's worth checking with the carrier using your tracking number or emailing help@loomandlark.com with your order number so our team can look into it further.",
         "violation": false
       }
     ]
   },
-  "pending": {
-    "round": 2,
-    "at": "2026-11-02T03:48:13.034Z",
-    "costUsd": 0.0468812
-  },
+  "pending": null,
   "rounds": [
     {
       "round": 1,
@@ -65,6 +60,17 @@
       ],
       "costUsd": 0.05242380000000001,
       "writeUsd": 0.023008
+    },
+    {
+      "round": 2,
+      "at": "2026-11-02T03:48:13.034Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: edit too long",
+        "candidate-2: head-to-head 33.3, needs 52.0 (50 is even)"
+      ],
+      "costUsd": 0.0468812,
+      "writeUsd": 0.035582
     }
   ]
 }
