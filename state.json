@@ -1,84 +1,13 @@
 {
-  "round": 3,
+  "round": 0,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 3,
-  "spendUsd": 0.3617862,
+  "stalls": 0,
+  "spendUsd": 0,
   "spendUnknown": false,
-  "stopped": "3 rounds in a row found no winner",
+  "stopped": null,
   "issue": 3,
-  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
-  "lessons": {
-    "promptHash": "e0bcf5906bafe7f73c44b3adbfff16837461a7754af586c6b599bf630265fa32",
-    "rows": [
-      {
-        "id": "s1",
-        "score": 62,
-        "reply": "Sorry the jeans don't fit right! Since they arrived last week, you're well within our 30-day return window, so you can get your money back.\n\nHere's what to do:\n\n1. Make sure the jeans are unworn, unwashed, and still have their tags attached. This is required for a return.\n2. Start your return at loomandlark.com/returns.\n\nRefunds go back to your original payment method minus a $7.95 return shipping fee, and they take 5-10 business days to appear once our warehouse receives the return.\n\nIf you'd rather not lose the $7.95, you could choose store credit instead. It ships free and comes with a 10% bonus. You could also exchange for a different size, since exchanges have a 45-day window and ship free. If you choose an exchange, the new size ships as soon as your return label is printed.\n\nOne thi"
-      },
-      {
-        "id": "s13",
-        "score": 62,
-        "reply": "Sorry the size isn't right! Good news: you can still get it sorted without your aunt knowing.\n\nGift recipients can return an item for store credit as long as the order number is on the packing slip. That packing slip is usually in the box, so check there for the order number. Your aunt won't be notified of the return.\n\nHere's how it works:\n- **Timing:** Returns are accepted within 30 days of delivery. The item needs to be unworn, unwashed, and have its tags attached.\n- **Store credit:** You'll get 10% more in store credit than the item's purchase value, and store credit returns ship free.\n- **Start the return:** Go to loomandlark.com/returns and enter the order number from the packing slip.\n\nIf you'd like a different size or color instead, exchanges are available for 45 days from delivery."
-      },
-      {
-        "id": "s14",
-        "score": 62,
-        "reply": "Sorry, I can't approve a return of just the pants. Sets like the Lounge Set have to be returned complete, so the top and bottoms need to go back together.\n\nHere are a few options:\n\n- **Return the full set** within 30 days of delivery, provided it's unworn, unwashed, and has tags attached. Start at loomandlark.com/returns. Refunds go back to your original payment method minus the $7.95 return shipping fee. If you'd rather get store credit or an exchange instead, those ship free, and store credit includes a 10% bonus.\n- **Exchange the set** for a different size or color within 45 days of delivery. Choose an instant exchange and the new set ships as soon as your return label is printed.\n- **If the pants are damaged or defective**, email photos to help@loomandlark.com within 90 days of deliver"
-      },
-      {
-        "id": "s20",
-        "score": 72,
-        "reply": "I'm sorry the shirt shrank on you, that's frustrating! Unfortunately, our standard returns require items to be unworn and unwashed with tags attached, so a shirt that's been washed doesn't qualify for a regular return.\n\nThere are a couple of options that may help, though:\n\n- **Damaged or defective items:** If the shrinkage came from a flaw in the garment rather than from how it was washed, you can email photos to help@loomandlark.com within 90 days of delivery. We can offer a replacement or a full refund, with shipping included. Including the order number and a photo of the shirt's label would help.\n- **Care instructions:** If the label recommended a different wash method (like cold water or air drying), it's worth checking that against how you washed it. That may affect which option appli"
-      },
-      {
-        "id": "s25",
-        "score": 72,
-        "reply": "Hi there, happy to help with both!\n\n**Exchange (black tee S to white M):** Exchanges are available within 45 days of delivery for another size or color. Start the request at loomandlark.com/returns. If the black tee isn't marked Final Sale and is unworn, unwashed, and has its tags attached, you can choose the instant exchange option: the white M ships as soon as your return label is printed. Just make sure the tee meets those conditions before you send it back.\n\n**Free shipping:** We offer free US shipping on orders over $75. Your order is $70, so adding socks would only get you free shipping if the total goes over $75. If the socks bring your subtotal to more than $75, shipping will be free. Otherwise, standard shipping applies. Note that this is calculated on the order subtotal before ta"
-      },
-      {
-        "id": "s30",
-        "score": 78,
-        "reply": "Bonjour, et merci de nous avoir écrit ! Oui, c'est tout à fait possible. Nos retours sont acceptés dans les 30 jours suivant la livraison, donc votre robe est dans le délai.\n\nPour que le retour soit accepté, la robe doit être :\n- non portée et non lavée\n- avec ses étiquettes attachées\n\nVous pouvez démarrer votre retour sur loomandlark.com/returns.\n\nQuelques précisions :\n- **Remboursement** : il est versé sur votre moyen de paiement d'origine, moins des frais de retour de 7,95 $. Il faut compter 5 à 10 jours ouvrables après réception du colis à notre entrepôt.\n- **Échange ou crédit boutique** : ces retours sont gratuits, et le crédit boutique bénéficie d'un bonus de 10 %.\n- **Article en vente finale** : si la robe est marquée « Final Sale » ou fait partie de la vente d'archives, elle ne peu"
-      }
-    ]
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "at": "2026-11-02T02:21:46.576Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: won 15 and lost 7 scenarios, which could be noise",
-        "candidate-2: 84.9 did not beat 85.3 by 2",
-        "candidate-3: won 12 and lost 10 scenarios, which could be noise"
-      ],
-      "costUsd": 0.11204380000000001,
-      "writeUsd": 0.065442
-    },
-    {
-      "round": 2,
-      "at": "2026-11-02T02:23:43.728Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: not held-back tested",
-        "candidate-2: did not gain 2 on held-back scenarios, 81.3 vs 87.6",
-        "candidate-3: won 15 and lost 7 scenarios, which could be noise"
-      ],
-      "costUsd": 0.127585,
-      "writeUsd": 0.080886
-    },
-    {
-      "round": 3,
-      "at": "2026-11-02T02:25:39.172Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: 86.7 did not beat 86.0 by 2",
-        "candidate-2: 84.1 did not beat 86.0 by 2",
-        "candidate-3: 86.4 did not beat 86.0 by 2"
-      ],
-      "costUsd": 0.12215739999999997,
-      "writeUsd": 0.08050199999999999
-    }
-  ]
+  "scenariosHash": null,
+  "lessons": null,
+  "rounds": []
 }
