@@ -1,12 +1,24 @@
 {
-  "round": 0,
+  "round": 1,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 0,
-  "spendUsd": 0,
+  "stalls": 1,
+  "spendUsd": 0.11786,
   "spendUnknown": false,
   "stopped": null,
-  "issue": null,
-  "scenariosHash": null,
-  "rounds": []
+  "issue": 3,
+  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
+  "rounds": [
+    {
+      "round": 1,
+      "at": "2026-11-02T01:51:40.494Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: not held-back tested",
+        "candidate-2: won 12 and lost 5 scenarios, which could be noise",
+        "candidate-3: won 12 and lost 6 scenarios, which could be noise"
+      ],
+      "costUsd": 0.11786
+    }
+  ]
 }
