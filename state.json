@@ -1,15 +1,19 @@
 {
-  "round": 0,
+  "round": 1,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 0,
-  "spendUsd": 0,
+  "stalls": 1,
+  "spendUsd": 0.059389499999999984,
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
   "scenariosHash": null,
   "lessons": null,
-  "pending": null,
+  "pending": {
+    "round": 1,
+    "at": "2026-11-02T20:59:22.947Z",
+    "costUsd": 0.059389499999999984
+  },
   "proposal": null,
   "rounds": []
 }
