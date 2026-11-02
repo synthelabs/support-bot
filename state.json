@@ -1,46 +1,13 @@
 {
-  "round": 3,
+  "round": 0,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 3,
-  "spendUsd": 0.34804490000000005,
+  "stalls": 0,
+  "spendUsd": 0,
   "spendUnknown": false,
-  "stopped": "3 rounds in a row found no winner",
+  "stopped": null,
   "issue": 3,
-  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
-  "rounds": [
-    {
-      "round": 1,
-      "at": "2026-11-02T01:51:40.494Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: not held-back tested",
-        "candidate-2: won 12 and lost 5 scenarios, which could be noise",
-        "candidate-3: won 12 and lost 6 scenarios, which could be noise"
-      ],
-      "costUsd": 0.11786
-    },
-    {
-      "round": 2,
-      "at": "2026-11-02T01:53:45.098Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: won 12 and lost 7 scenarios, which could be noise",
-        "candidate-2: guardrail failed or unknown",
-        "candidate-3: not held-back tested"
-      ],
-      "costUsd": 0.11389260000000001
-    },
-    {
-      "round": 3,
-      "at": "2026-11-02T01:55:55.713Z",
-      "outcome": "skipped",
-      "reasons": [
-        "candidate-1: 83.4 did not beat 82.1 by 2",
-        "candidate-2: 79.9 did not beat 82.1 by 2",
-        "candidate-3: did not gain 2 on held-back scenarios, 82.7 vs 82.7"
-      ],
-      "costUsd": 0.1162923
-    }
-  ]
+  "scenariosHash": null,
+  "lessons": null,
+  "rounds": []
 }
