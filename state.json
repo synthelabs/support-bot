@@ -7,12 +7,60 @@
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
-  "scenariosHash": null,
-  "lessons": null,
-  "pending": {
-    "round": 1,
-    "at": "2026-11-02T03:52:21.577Z",
-    "costUsd": 0.08213829999999998
+  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
+  "lessons": {
+    "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
+    "rows": [
+      {
+        "id": "s1",
+        "reply": "I'm sorry the jeans don't fit! Since they were delivered last week, you're within our 30-day return window, provided they're unworn, unwashed, and still have their tags. You can start the return at loomandlark.com/returns, and refunds go back to your original payment method minus the $7.95 return shipping fee, typically 5-10 business days after the warehouse receives them.",
+        "better": "I'm sorry the jeans don't fit well in the waist, that's frustrating, especially after waiting for them to arrive.\n\nSince they're a fit issue, you have a couple of options:\n\n- **Exchange for a different size** (45 days from delivery). Your new size ships free, and with an instant exchange it ships as soon as you print the return label.\n- **Store credit** for the price of the jeans, with a 10% bonus. Returns for store credit also ship free.\n- **Refund** to your original payment method. This is also possible, but there's a $7.95 return shipping fee deducted from the refund.\n\nTo start a return or exchange, go to loomandlark.com/returns. The jeans need to be unworn, unwashed, and with tags attached.\n\nWould you like to exchange for a larger size, or would you prefer one of the other options? If ",
+        "violation": true
+      },
+      {
+        "id": "s4",
+        "reply": "I'm sorry the shirt doesn't fit. Unfortunately, items in the Archive Sale are Final Sale, so they can't be exchanged or returned, including for a medium. If you have a damaged or defective item, you can email help@loomandlark.com with photos within 90 days of delivery for a replacement or refund.",
+        "better": "I'm sorry the linen shirt didn't fit. Unfortunately, items in the Archive Sale are Final Sale, so they can't be returned or exchanged, and that includes trading it for a medium.\n\nIf you'd like to double-check that the shirt is marked Final Sale on your order, you can look at the order confirmation email or contact help@loomandlark.com, and they can confirm the details with you.\n\nFor future orders, our sizing details are on each product page, and exchanges for regular-priced items are available for 45 days from delivery.",
+        "violation": true
+      },
+      {
+        "id": "s15",
+        "reply": "No, you'd get back the amount you actually paid after the 20% code, which is $80, minus the $7.95 return shipping fee, so $72.05 (as long as the item is returned within 30 days of delivery, unworn, unwashed, and with tags attached). Refunds go to your original payment method within 5-10 business days after the warehouse receives the return, and you can start it at loomandlark.com/returns.",
+        "better": "No, you'd get back the amount you actually paid after the promo code. Your order would be $80, so a refund would be $80 minus the $7.95 return shipping fee, which comes to $72.05 back to your original payment method. We don't do price adjustments for promo codes.\n\nIf you'd rather keep more of the value, a return for store credit or an exchange ships free. Store credit also gets a 10% bonus, so the $80 you paid would become $88 in credit. You can start a return at loomandlark.com/returns.\n\nIf you have questions about your specific order, email help@loomandlark.com.",
+        "violation": true
+      },
+      {
+        "id": "s18",
+        "reply": "Duties and taxes on Canadian orders aren't refundable, so the duties you paid at import won't be returned with your refund.\n\nI'm sorry for the surprise. For the refund amount itself, it goes back to your original payment method minus the $7.95 return shipping fee, typically within 5-10 business days after the warehouse receives your return.",
+        "better": "Hi, thanks for reaching out, and I'm sorry the refund didn't match what you expected.\n\nThe reason is in our policy: duties and taxes on Canadian orders aren't refundable. So when you return an order, the refund covers the amount you paid for the items, minus the $7.95 return shipping fee if it goes to your original payment method. The duties and taxes you paid at the border or through the carrier aren't included.\n\nIf you'd like to check the exact breakdown of your refund, you can look at your order confirmation or reach out to help@loomandlark.com with your order number. They can confirm the details for your specific return.\n\nIs there anything else I can help you with?",
+        "violation": true
+      },
+      {
+        "id": "s20",
+        "reply": "I'm sorry the shirt shrank, that's frustrating. Unfortunately, returns require items to be unwashed with tags attached, so a washed shirt isn't eligible for a standard return. However, if the item is damaged or defective, you can email photos to help@loomandlark.com within 90 days of delivery for a replacement or full refund, and we'd be glad to review it there.",
+        "better": "I'm sorry the shirt shrank on you, that's frustrating. Unfortunately, our standard return policy requires items to be unworn and unwashed with tags attached, so a washed item doesn't qualify for a return or exchange.\n\nThere is one option that may help: if the shirt arrived damaged or defective, you can email photos to help@loomandlark.com within 90 days of delivery. Shrinking after a single wash may or may not fall under that, so our team would need to review the photos and make the call. If you send them a photo of the shirt along with the care label and a note about how it was washed, they can take a look.\n\nWould you like help with anything else, like checking whether the item was marked Final Sale?",
+        "violation": true
+      },
+      {
+        "id": "s22",
+        "reply": "I'm really sorry you had a reaction like that, and I hope the rash is improving. Please email help@loomandlark.com with photos of the item and your order number so our team can look into it and sort out a return or refund for you. If the rash is spreading, severe, or affecting your breathing, please get medical care right away.",
+        "better": "I'm really sorry you went through that. A rash from a reaction like this is uncomfortable, and I hope you're feeling better soon. If the rash is spreading, you're having trouble breathing or swelling, or it's getting worse, please see a doctor or urgent care right away.\n\nBecause this is a health concern, I'd like to pass it to our team at help@loomandlark.com so a person can look into it properly. Please include your order number, the leggings' color and size, and photos of the rash if you have them. Having that information on hand will help them move quickly.\n\nIf you'd like to return the leggings, you can start that at loomandlark.com/returns. Returns are accepted within 30 days of delivery, as long as the item is unworn, unwashed, and still has its tags attached. Keep in mind that a retu",
+        "violation": true
+      }
+    ]
   },
-  "rounds": []
+  "pending": null,
+  "rounds": [
+    {
+      "round": 1,
+      "at": "2026-11-02T03:52:21.577Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: breaks a guardrail where the current prompt keeps it, or couldn't be checked",
+        "candidate-2: head-to-head 40.0, needs 52.0 (50 is even)"
+      ],
+      "costUsd": 0.08213829999999998,
+      "writeUsd": 0.023258
+    }
+  ]
 }
