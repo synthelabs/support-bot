@@ -1,9 +1,9 @@
 {
-  "round": 2,
+  "round": 3,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 2,
-  "spendUsd": 0.1441113,
+  "stalls": 3,
+  "spendUsd": 0.22081460000000003,
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
@@ -48,7 +48,11 @@
       }
     ]
   },
-  "pending": null,
+  "pending": {
+    "round": 3,
+    "at": "2026-11-02T20:31:31.961Z",
+    "costUsd": 0.07670330000000002
+  },
   "proposal": null,
   "rounds": [
     {
