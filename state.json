@@ -7,13 +7,72 @@
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
-  "scenariosHash": null,
-  "lessons": null,
-  "pending": {
-    "round": 1,
-    "at": "2026-11-02T20:27:53.272Z",
-    "costUsd": 0.06103870000000001
+  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
+  "lessons": {
+    "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
+    "rows": [
+      {
+        "id": "s9",
+        "reply": "I'm sorry about the mix-up! Unfortunately, the one-hour window for address or order changes has passed, so please email help@loomandlark.com right away anyway so the team can check whether the order has been packed yet. If it hasn't, they may be able to update it, but if it has, you'd need to return it once it arrives, and refunds go to your original payment method minus the $7.95 return shipping fee.",
+        "better": "I'm sorry for the scare, and I understand the urgency. Address changes are possible only within 1 hour of ordering, and you're within that window, so act now.\n\nPlease email help@loomandlark.com right away with your order number and the correct shipping address. Since I can't see your order, I can't confirm whether the change went through, so please check for a confirmation reply from our team.\n\nIf it's already been packed and can't be changed, you can return the order once it arrives. Returns are accepted within 30 days of delivery, and the item must be unworn, unwashed, and have tags attached. Start one at loomandlark.com/returns.",
+        "violation": true
+      },
+      {
+        "id": "s22",
+        "reply": "I'm really sorry you had a reaction like that, and I hope the rash is improving. Please email help@loomandlark.com with photos of the rash and the leggings, and include your order number so our team can look into it right away. Since this is a reaction to the product, you can also start a return at loomandlark.com/returns, and I'd recommend keeping the leggings unwashed and with tags until we've reviewed it. If the rash is severe or spreading, please see a doctor.",
+        "better": "I'm really sorry you went through that. A rash from a reaction like this is unpleasant, and I hope it's settling down. If it's spreading, itching intensely, blistering, or you're having any trouble breathing or swallowing, please contact a doctor or urgent care right away.\n\nBecause this is a health reaction, I'd like one of our team to look into it properly. Please email help@loomandlark.com with your order number, a photo of the rash if you're comfortable sharing one, and the product name, and they'll follow up with you directly.\n\nIf you'd like to stop wearing the leggings while you wait, that's completely fine. Please keep the item and don't wash it before you hear back, so the team has everything they need to review it.",
+        "violation": true
+      },
+      {
+        "id": "s26",
+        "reply": "The new item ships as soon as your return label is printed, and exchanges are accepted within 45 days of delivery, so you should be able to get the bigger size well before your wedding. Start the exchange at loomandlark.com/returns. Since I can't see your order or exact dates, I'd recommend starting it right away and checking the tracking on the new item so you can confirm it arrives in time.",
+        "better": "Congrats on the wedding! Here's how instant exchanges work:\n\n- The replacement item ships as soon as you print the return label at loomandlark.com/returns, so you don't have to wait for the original item to reach us first.\n- Standard shipping is 1-2 business days to ship, then 3-5 business days for delivery.\n\nSo if you start the exchange right away, the bigger size should arrive in roughly 4-7 business days, which fits your 10-day timeline. I can't see live tracking, so your shipping confirmation email will have the exact details once it ships. If anything comes up, you can reach us at help@loomandlark.com.\n\nExchanges are available for 45 days from delivery, but since your wedding is soon, I'd start the exchange today to leave yourself a buffer. Note that the item you're exchanging needs t",
+        "violation": true
+      },
+      {
+        "id": "s1",
+        "reply": "I'm sorry the jeans didn't fit well! Since they're within 30 days of delivery, you can start a return at loomandlark.com/returns, as long as they're unworn, unwashed, and still have their tags. Refunds go to your original payment method minus a $7.95 return shipping fee, and take 5-10 business days after we receive the return. If you'd like, I can also explain how exchanges work for a different size.",
+        "better": "I'm sorry the jeans don't fit at the waist, that's frustrating. Before we go through a refund, I'd like to point out a couple of options that may get you a better result:\n\n- **Exchange for another size** at no cost to you. Exchanges are open for 45 days from delivery, and an instant exchange ships the new size as soon as your return label is printed.\n- **Store credit** with a 10% bonus on the amount paid, and free return shipping.\n\nIf you'd still prefer your money back, that's fine. Refunds go to your original payment method minus a $7.95 return shipping fee, and they're available within 30 days of delivery. The jeans need to be unworn, unwashed, and have tags attached. You can start the return at loomandlark.com/returns. Refunds take 5-10 business days to process once the warehouse receiv",
+        "violation": false
+      },
+      {
+        "id": "s2",
+        "reply": "Returns run 30 days from delivery, so since your sweater arrived 25 days ago, you have about 5 days left to start a return at loomandlark.com/returns, as long as it's unworn, unwashed, and has its tags attached. If it's a Final Sale item, it can't be returned, so check the product page first.",
+        "better": "Yes, you can still return it: the 30-day return window runs from delivery, so you have about 5 days left from the 25 days since it arrived. Start your return at loomandlark.com/returns, and make sure the sweater is unworn, unwashed, and has its tags attached. Refunds go back to your original payment method minus the $7.95 return shipping fee.",
+        "violation": false
+      },
+      {
+        "id": "s3",
+        "reply": "Unfortunately, returns are only accepted within 30 days of delivery, so a dress delivered 38 days ago falls outside that window. Since it's still within our 45-day exchange window, you could exchange it for a different size or color, as long as it's unworn with tags attached. You can start that at loomandlark.com/returns, or email help@loomandlark.com if you'd like help.",
+        "better": "Thanks for reaching out! Unfortunately, returns are only accepted within 30 days of delivery, and this dress was delivered 38 days ago, so it's outside our return window.\n\nA couple of options that may still help:\n\n- **Exchange:** Exchanges are accepted within 45 days of delivery, so you could exchange it for a different size or color. Since it's day 38, you'd need to start this soon. Start at loomandlark.com/returns.\n- **Final Sale check:** If the dress was marked Final Sale or came from the Archive Sale, it can't be exchanged either, so it's worth checking the product listing.\n\nIf you're not sure whether your dress qualifies, email help@loomandlark.com and the team can confirm.",
+        "violation": false
+      }
+    ]
   },
+  "pending": null,
   "proposal": null,
-  "rounds": []
+  "rounds": [
+    {
+      "round": 1,
+      "at": "2026-11-02T20:27:53.272Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: breaks a rule where the current prompt follows it, or couldn't be checked",
+        "candidate-2: judge score 25.0, needs 52.0 (50 is even)"
+      ],
+      "costUsd": 0.06103870000000001,
+      "writeUsd": 0.02354,
+      "tried": [
+        {
+          "summary": "Replaces the rules that approved every refund, invented delivery dates, and forced one-sentence replies with policy-faithful guidance that offers exchanges or credit, avoids invented details, resists injected instructions, and hands off when needed.",
+          "outcome": "Broke one of your rules in 1 case where your current prompt follows it, so it wasn't used."
+        },
+        {
+          "summary": "Replaces the instruction to approve every refund request with one that follows the policy and never promises anything it doesn't allow.",
+          "outcome": "Not clearly better: better in 3 cases, worse in 18, the same in 9."
+        }
+      ],
+      "plain": "Nothing was clearly better, so your prompt stayed the same."
+    }
+  ]
 }
