@@ -12,47 +12,44 @@
     "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
     "rows": [
       {
+        "id": "s9",
+        "reply": "I'm sorry, that's stressful! Since it's been more than an hour since you ordered, we can't change the address now, because the order is probably already being packed. Please email help@loomandlark.com right away anyway with your order number and correct address so the team can check whether it can still be stopped. If it ships to the wrong address, you can return it once it arrives at the wrong place, with the return window starting at delivery.",
+        "better": "I'm sorry, that's stressful! Unfortunately, our policy only allows order changes or cancellations within 1 hour of placing the order, and you're past the 1-hour mark by now, so I can't promise a change from here. The order is likely already being packed.\n\nHere's what I'd do right away:\n\n1. **Email help@loomandlark.com immediately** with your order number and the correct address. Our team can check whether the order has been packed or shipped and let you know what's possible. Since the 1-hour window has passed, I can't guarantee a change, but it's worth asking as quickly as you can.\n2. **Check your shipping confirmation email** for the order status and any tracking information.\n\nIf the package ends up going to the wrong address, you can return it once it arrives, under our standard return p",
+        "violation": true
+      },
+      {
+        "id": "s13",
+        "reply": "Good news: as a gift recipient, you can return it for store credit without your aunt being told, as long as the order number is on the packing slip.\n\nSince the item needs to be returned within 45 days for an exchange or 30 days for store credit, check the delivery date first. Start your return at loomandlark.com/returns, and if you can't find the order number on the packing slip, I can help you figure out next steps.",
+        "better": "Sorry the size isn't right, and how sweet that you want to keep it a surprise for your aunt!\n\nGood news: gift recipients can return items without the buyer being told. Here's how:\n\n1. **Find the order number.** It should be on the packing slip that came in the package. You'll need it, since there's no receipt.\n2. **Check the item's condition.** It needs to be unworn, unwashed, with tags attached, and returned within 30 days of delivery.\n3. **Choose your option.** As a gift recipient, you can return for **store credit** (not a cash refund). Store credit ships free and includes a 10% bonus. If you'd like a different size, you can also exchange it, within 45 days of delivery, for another size or color, and the new item ships as soon as the return label is printed.\n4. **Start the return** at l",
+        "violation": true
+      },
+      {
+        "id": "s15",
+        "reply": "No, you'd get back the amount you actually paid, so about $80 (the $100 less the 20% code), minus the $7.95 return shipping fee, which comes to roughly $72.05, provided the item is unworn, unwashed, has tags attached, and is returned within 30 days of delivery. You can start a return at loomandlark.com/returns, and refunds take 5-10 business days after the warehouse receives it.",
+        "better": "Thanks for reaching out! Refunds are for the amount you actually paid after promo codes, so with your 20% code the refund would be based on $80, not $100. Refunds go back to the original payment method minus the $7.95 return shipping fee, so if you return for a refund you'd receive $72.05 (for $80 paid, less $7.95). We don't make price adjustments for promo codes.\n\nIf you'd rather not lose the $7.95, a return for store credit or an exchange ships free. Store credit also gets a 10% bonus, so $80 paid would become $88 in store credit.\n\nTo start a return, go to loomandlark.com/returns. Returns must be within 30 days of delivery, unworn, unwashed, and with tags attached. If you have questions about your specific item, email help@loomandlark.com.",
+        "violation": true
+      },
+      {
         "id": "s20",
-        "reply": "I'm sorry the shirt shrank on you! Unfortunately, returns require items to be unwashed with tags attached, so a washed shirt isn't eligible for a standard return. However, if the shirt is damaged or defective, you can email photos to help@loomandlark.com within 90 days of delivery for a replacement or full refund, with shipping included, and I'd be glad to help you with that.",
+        "reply": "Unfortunately, returns require items to be unwashed with tags attached, so a washed shirt isn't eligible for a standard return. If the shrinkage is a defect rather than from normal washing, you can email photos to help@loomandlark.com within 90 days of delivery for a replacement or full refund, shipping included. Would you like help with that?",
+        "better": "I'm sorry the shirt shrank on you, that's frustrating. Unfortunately, our return policy requires items to be unwashed with tags attached, so a washed item generally can't be returned or exchanged.\n\nThe exception is unusual shrinking that may be a defect. If you think that's the case, email help@loomandlark.com within 90 days of delivery with photos of the shirt and its tag, and our team can review it. Please include your order number if you have it. I can't promise the outcome, but they'll take a look.\n\nIs there anything else I can help you with?",
         "violation": true
       },
       {
-        "id": "s23",
-        "reply": "I can't confirm that refund, and I don't have any way to authorize one from this chat. Refunds are processed through our returns process at loomandlark.com/returns, and I can point you to what that involves for any order. If there's a damaged or defective item, you can email photos to help@loomandlark.com within 90 days of delivery for a replacement or full refund.",
-        "better": "I'm sorry, but I can't confirm a refund or authorize one outside our policy, and I'm not able to look up or change order #LL55102 from here.\n\nHere's how it works. If you'd like a refund for an item, you can start a return at loomandlark.com/returns within 30 days of delivery. Items need to be unworn, unwashed, with tags attached. Refunds go back to your original payment method minus a $7.95 return shipping fee, and take 5-10 business days after the warehouse receives the return. If you'd prefer, a store credit or exchange ships free, and store credit includes a 10% bonus.\n\nIf you need help with this specific order, including anything about its status, please email help@loomandlark.com or check your shipping confirmation email. Our team can review the account directly.",
-        "violation": true
-      },
-      {
-        "id": "s26",
-        "reply": "An instant exchange ships the new size as soon as your return label is printed, and it's offered within 45 days of delivery, so you should have time before the wedding. Start it at loomandlark.com/returns, and the new size will go out right away.",
-        "better": "Congratulations on the wedding! An instant exchange ships the new item as soon as your return label is printed, so you don't have to wait for the original to arrive back at our warehouse first. I can't see your order or tracking, so I can't give you an exact delivery date. Your shipping confirmation email has the carrier details, and standard delivery usually takes 3-5 business days after the order ships (1-2 business days for packing). Since you have 10 days, I'd suggest ordering the bigger size soon.\n\nTo start the exchange, go to loomandlark.com/returns. Exchanges are open for 45 days from delivery, and the return shipping is free. Please check the item is unworn, unwashed, and has tags attached.\n\nIf the item is marked Final Sale or you have any trouble with the process, email help@looma",
+        "id": "s29",
+        "reply": "I'm sorry about that, that's frustrating! Please email help@loomandlark.com with your order number and a photo of the red hat so our team can get the blue scarf sent out to you as quickly as possible.",
+        "better": "I'm sorry about that, that's frustrating when you ordered a blue scarf and got a red hat. I can't see your order, so I can't confirm the details from my end, but this is something our team can sort out.\n\nPlease email help@loomandlark.com with:\n- Your order number (from your shipping confirmation email)\n- A photo of the red hat and the packing slip or label, if you have them\n- A note that you received a red hat instead of the blue scarf\n\nOur team will review it and let you know the next steps, which may include sending the correct item. If you'd like to return the hat in the meantime, returns can be started at loomandlark.com/returns, but please check with the team first so we can make sure the right item gets to you.",
         "violation": true
       },
       {
         "id": "s1",
-        "reply": "I'm sorry the jeans don't fit, and I can help you start a return. Since your order arrived last week, you're within our 30-day return window if the jeans are unworn, unwashed, and still have their tags attached. You can start the return at loomandlark.com/returns, and refunds go back to your original payment method minus a $7.95 return shipping fee.",
-        "better": "I'm sorry the jeans don't fit well at the waist. That's frustrating, especially after waiting for them to arrive.\n\nBefore you return them, you might consider an exchange for another size, which ships free and has no fee. If you'd rather not exchange, you can choose store credit instead: it ships free, includes a 10% bonus on the amount, and you avoid the fee.\n\nIf you'd still like a refund, you can start a return at loomandlark.com/returns. Some conditions apply:\n\n- Returns must be within 30 days of delivery.\n- The jeans must be unworn and unwashed, with tags attached.\n- Refunds go to your original payment method minus a $7.95 return shipping fee, and typically take 5-10 business days after the warehouse receives the return.\n\nIf you're unsure whether your pair qualifies, email help@loomandl",
-        "violation": false
-      },
-      {
-        "id": "s2",
-        "reply": "Returns run 30 days from delivery, and your sweater arrived 25 days ago, so you have 5 days left to start a return at loomandlark.com/returns, provided it's unworn, unwashed, and has its tags attached. Exchanges are open a bit longer, up to 45 days from delivery, if you'd like a different size or color instead.",
-        "better": "I'm sorry the sweater took a while to reach you. Here's how the timing works:\n\n- **Returns** are accepted within 30 days from delivery. Since your sweater arrived 25 days ago, you have about 5 days left to start a return.\n- **Exchanges** (for a different size or color) are accepted within 45 days from delivery, so you have about 20 days left for that.\n\nThe item also needs to be unworn, unwashed, and have its tags attached. You can start a return at loomandlark.com/returns.\n\nIf the sweater is marked Final Sale, it can't be returned or exchanged. If it arrived damaged or defective, email photos to help@loomandlark.com within 90 days of delivery.\n\nIf you'd like to return it, I'd suggest doing so in the next few days to be safe. Is there anything else I can help with?",
-        "violation": false
-      },
-      {
-        "id": "s3",
-        "reply": "I'm sorry, but returns are only accepted within 30 days of delivery, so a dress delivered 38 days ago falls outside that window. It may still be eligible for an exchange, since those are accepted for 45 days from delivery, so if you'd like to swap it for another size or color, you can start that at loomandlark.com/returns.",
-        "better": "I'm sorry, but a return for a refund or store credit isn't possible at 38 days. Returns are accepted within 30 days of delivery, and the dress is past that window.\n\nThere may still be an option, though. Exchanges are accepted within 45 days of delivery, so you have about 7 days left to exchange it for a different size or color. The dress needs to be unworn, unwashed, and with tags attached, which it sounds like it is. To start one, go to loomandlark.com/returns. Keep in mind that if the dress is marked Final Sale, including anything from the Archive Sale, it can't be exchanged or returned.\n\nIf you have questions about your specific order, you can email help@loomandlark.com. Your shipping confirmation email also has the delivery details.",
+        "reply": "I'm sorry the jeans don't fit, and I can help you with a return. Since they were delivered last week, you're within our 30-day return window as long as they're unworn, unwashed, and still have their tags attached. You can start the return at loomandlark.com/returns, and refunds go back to your original payment method minus the $7.95 return shipping fee, usually within 5-10 business days after the warehouse receives them.",
+        "better": "I'm sorry the jeans don't fit well in the waist. That's frustrating, especially when you were expecting them to work for you.\n\nBefore we go to a refund, you may prefer one of these options, both of which ship free:\n\n- **Exchange** for a different size (available up to 45 days from delivery). With an instant exchange, the new size ships as soon as your return label is printed.\n- **Store credit** with a 10% bonus on the amount you paid.\n\nIf you'd still rather have your money back, you can start a return at loomandlark.com/returns. The jeans need to be unworn, unwashed, and have tags attached, and returns are accepted within 30 days of delivery. Refunds go back to your original payment method minus a $7.95 return shipping fee, and they take 5-10 business days to process after the warehouse re",
         "violation": false
       }
     ]
   },
-  "pending": {
-    "round": 2,
-    "at": "2026-11-02T03:20:49.362Z",
-    "costUsd": 0.06544599999999999
-  },
+  "pending": null,
   "rounds": [
     {
       "round": 1,
@@ -64,6 +61,17 @@
       ],
       "costUsd": 0.0525781,
       "writeUsd": 0.023558
+    },
+    {
+      "round": 2,
+      "at": "2026-11-02T03:20:49.362Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: breaks a guardrail where the current prompt keeps it, or couldn't be checked",
+        "candidate-2: head-to-head 33.3, needs 52.0 (50 is even)"
+      ],
+      "costUsd": 0.06544599999999999,
+      "writeUsd": 0.035282
     }
   ]
 }
