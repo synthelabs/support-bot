@@ -1,5 +1,5 @@
 {
-  "round": 3,
+  "round": 4,
   "prompt": null,
   "lastMerge": {
     "pr": 1,
@@ -159,10 +159,10 @@
     "mergedHash": "682011e1cd9b428b45accfb23e6e2ac1a7c6e20fabffc18d191a1a79a16cf673",
     "reverted": false
   },
-  "stalls": 2,
-  "spendUsd": 0.16636380000000006,
+  "stalls": 3,
+  "spendUsd": 0.22437620000000008,
   "spendUnknown": false,
-  "stopped": null,
+  "stopped": "3 rounds in a row found no winner",
   "issue": 2,
   "rounds": [
     {
@@ -200,6 +200,17 @@
         "candidate-3: 93.8 did not beat 94.2 by 2"
       ],
       "costUsd": 0.05903580000000001
+    },
+    {
+      "round": 4,
+      "at": "2026-11-02T01:32:06.669Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: 94.5 did not beat 94.3 by 2",
+        "candidate-2: 94.0 did not beat 94.3 by 2",
+        "candidate-3: 94.3 did not beat 94.3 by 2"
+      ],
+      "costUsd": 0.05801240000000001
     }
   ]
 }
