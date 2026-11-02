@@ -1,11 +1,11 @@
 {
-  "round": 2,
+  "round": 3,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 2,
-  "spendUsd": 0.23175260000000003,
+  "stalls": 3,
+  "spendUsd": 0.34804490000000005,
   "spendUnknown": false,
-  "stopped": null,
+  "stopped": "3 rounds in a row found no winner",
   "issue": 3,
   "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
   "rounds": [
@@ -30,6 +30,17 @@
         "candidate-3: not held-back tested"
       ],
       "costUsd": 0.11389260000000001
+    },
+    {
+      "round": 3,
+      "at": "2026-11-02T01:55:55.713Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: 83.4 did not beat 82.1 by 2",
+        "candidate-2: 79.9 did not beat 82.1 by 2",
+        "candidate-3: did not gain 2 on held-back scenarios, 82.7 vs 82.7"
+      ],
+      "costUsd": 0.1162923
     }
   ]
 }
