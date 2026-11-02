@@ -1,13 +1,65 @@
 {
-  "round": 0,
+  "round": 1,
   "prompt": null,
   "lastMerge": null,
-  "stalls": 0,
-  "spendUsd": 0,
+  "stalls": 1,
+  "spendUsd": 0.07455110000000001,
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
-  "scenariosHash": null,
-  "lessons": null,
-  "rounds": []
+  "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
+  "lessons": {
+    "promptHash": "e0bcf5906bafe7f73c44b3adbfff16837461a7754af586c6b599bf630265fa32",
+    "rows": [
+      {
+        "id": "s1",
+        "reply": "Sorry the jeans don't fit right! Since they arrived last week, you're well within our 30-day return window, so you can get your money back.\n\nTo make sure they qualify, please check that they're unworn and unwashed, with the tags still attached. If they meet that, start your return at loomandlark.com/returns.\n\nA few things to know about refunds:\n- Your refund goes back to your original payment method, minus a $7.95 return shipping fee.\n- The refund is for the amount you actually paid, after any promo codes.\n- Once the warehouse receives the return, refunds take 5-10 business days.\n\nIf you'd rather skip the fee, you can choose store credit instead. It ships free and comes with a 10% bonus. Or, if a different size would work, you can exchange for free and we'll ship the new pair as soon as yo",
+        "better": "I'm sorry the jeans don't fit well in the waist. Let's see what works best for you.\n\nHere are your options:\n\n- **Exchange** for another size or color (within 45 days of delivery). If you start the return and print the label, the new size ships right away, and exchanges ship free.\n- **Store credit** for the full return, with a 10% bonus and free return shipping. For example, a $120 pair of jeans would give you $132 in credit.\n- **Refund** to your original payment method, minus a $7.95 return shipping fee. Refunds take 5-10 business days after our warehouse receives the return.\n\nTo start a return or exchange, go to loomandlark.com/returns. The jeans need to be unworn, unwashed, and have tags attached.\n\nIf you'd still like a refund, just let me know and I'll walk you through that process. Is ",
+        "violation": true
+      },
+      {
+        "id": "s2",
+        "reply": "Yes, you can likely still return it. Our return window is 30 days from delivery, not from when you ordered. Since your sweater was delivered 25 days ago, you have about 5 days left to start a return.\n\nTo start one, go to loomandlark.com/returns before the window closes. Please keep in mind:\n\n- The sweater needs to be unworn and unwashed, with tags still attached.\n- Refunds go back to your original payment method minus a $7.95 return shipping fee.\n- If you'd prefer store credit or an exchange instead, those ship free, and store credit includes a 10% bonus.\n- Exchanges are available for up to 45 days from delivery if you'd like a different size or color.\n\nIf the sweater is damaged or defective, email photos to help@loomandlark.com within 90 days of delivery instead, and we'll send a replacem",
+        "better": "Thanks for reaching out! The return window runs from the delivery date, not the order date. Since your sweater was delivered 25 days ago, you're still within our 30-day return window.\n\nTo be eligible, the sweater needs to be unworn, unwashed, and have its tags attached. You can start your return at loomandlark.com/returns.\n\nRefunds go back to your original payment method minus a $7.95 return shipping fee. If you'd rather avoid that fee, you can choose an exchange or store credit instead, which ships free and includes a 10% bonus on store credit. Just let me know if you'd like help weighing those options.",
+        "violation": true
+      },
+      {
+        "id": "s6",
+        "reply": "I'm sorry your order has taken this long. I don't have access to live tracking, so I can't see where order #LL20418 is right now. Here's how to find out quickly:\n\n1. **Check your shipping confirmation email.** It has a tracking number and a link to the carrier's tracking page.\n2. **Look at the status.** Tracking usually shows whether the package is in transit, out for delivery, or marked delivered.\n\nOrders ship within 1-2 business days and standard delivery takes 3-5 business days after that, so a week is longer than expected.\n\n- **If tracking shows delivered but you can't find the package:** check with neighbors or your building's front desk and wait 48 hours. If it's still missing, contact the carrier. If you bought Order Protection at checkout, file a claim at loomandlark.com/claim with",
+        "better": "I'm sorry your order is taking longer than expected. I can't see order details or tracking from here, so I can't tell you its exact status.\n\nHere's the usual timing: orders ship within 1 to 2 business days, then standard delivery takes 3 to 5 business days. A week has passed, so it's worth checking now:\n\n- **Your shipping confirmation email** has the tracking link and latest carrier updates.\n- **If tracking shows delivered but you can't find the package:** check with neighbors or your building, then wait 48 hours and contact the carrier.\n- **If it's still not moving or you're past the usual window:** email help@loomandlark.com with your order number, #LL20418, and the team can look into it for you.\n\nIf you had Order Protection at checkout, a lost or damaged package can be claimed at looman",
+        "violation": true
+      },
+      {
+        "id": "s7",
+        "reply": "I'm sorry, that's frustrating, especially since you added Order Protection. Here's how to handle it:\n\n1. **File a claim now.** Go to loomandlark.com/claim. Claims need to be filed within 30 days of the expected delivery date, and since you're already in that window, you have time, but there's no reason to wait. Order Protection covers packages marked delivered but not received, and a claim gets you a free reship or a refund.\n\n2. **Check around first if you can.** Ask neighbors, your building's front desk or mailroom, or anyone who might have received it, and look around your porch or entryway in case it was left somewhere out of sight. If you find it, you won't need the claim.\n\n3. **Keep an eye on the timing.** If you haven't found it, the claim is the right next step. You don't need to wa",
+        "better": "I'm sorry, that's frustrating, especially since you added Order Protection. I can't see your tracking or order details from here, so I can't confirm what the carrier recorded, but here's how to proceed.\n\nSince you purchased Order Protection, file a claim at loomandlark.com/claim. Claims for lost, stolen, or damaged packages can get a free reship or a refund. Please file it within 30 days of the expected delivery date, and don't wait too long to do so.\n\nBefore or while you file, it may help to:\n- Check with neighbors, your building's front desk or mailroom, and any safe drop-off spots.\n- Look for a delivery photo or delivery notes in your tracking details or shipping confirmation email.\n\nIf you'd like a person to look at the shipment itself, email help@loomandlark.com with your order number",
+        "violation": true
+      },
+      {
+        "id": "s9",
+        "reply": "I'm sorry about the stress! Unfortunately, changes and cancellations have to be requested within 1 hour of placing the order, and you're past that window at 20 minutes, no, wait, let me restate that clearly: you're still within the 1-hour window, so you have time to act.\n\nPlease email help@loomandlark.com right away with your order number and the correct shipping address. Address changes can only be made within the first hour, and orders are packed after that, so the sooner you send it, the better.\n\nIf you don't hear back quickly or the change can't be made, let us know and we'll look at other options. Is there anything else I can help you with?",
+        "better": "I'm sorry, that's stressful! Unfortunately, address changes can only be made within 1 hour of ordering, and we're asked to email help@loomandlark.com right away so the team can try to update it before the order is packed. Since 20 minutes have passed, please email them as soon as possible with your order number and the correct address. I can't confirm whether the change will go through, so please check your order confirmation and reach out right away.\n\nIf the package ships to the wrong address, you can file a claim within 30 days of the expected delivery date at loomandlark.com/claim only if you have Order Protection. Without it, packages marked delivered but missing can't be reshipped or refunded, so checking with neighbors or your building and waiting 48 hours before contacting the carri",
+        "violation": true
+      },
+      {
+        "id": "s10",
+        "reply": "I'm sorry to hear you want to cancel! Cancellations are possible only within 1 hour of placing the order. After that, the order is being packed and can't be changed, but you can return it once it arrives.\n\nSince you ordered yesterday, the 1-hour window has likely passed, so here's what you can do:\n\n- **Return it once it arrives:** Returns are accepted within 30 days of delivery. Items need to be unworn, unwashed, and have tags attached. Start the return at loomandlark.com/returns.\n- **Refund details:** Refunds go to your original payment method minus a $7.95 return shipping fee, and take 5-10 business days after the warehouse receives the return.\n- **Store credit or exchange instead:** If you'd rather have store credit, you get a 10% bonus and returns ship free. Exchanges (for another size",
+        "better": "I'm sorry you want to cancel. Cancellations must be requested within 1 hour of ordering. Since your order was placed yesterday, it has likely already been packed and can't be changed or cancelled.\n\nOnce it arrives, you can start a return at loomandlark.com/returns. Returns are accepted within 30 days of delivery, as long as items are unworn, unwashed, and have tags attached. If you'd like to be certain of your order's status, please email help@loomandlark.com with your order number. I can't see order details from here, so they can confirm exactly where it stands.",
+        "violation": true
+      }
+    ]
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "at": "2026-11-02T02:40:21.175Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: won 11 and lost 8 scenarios, which could be noise",
+        "candidate-2: won 16 and lost 8 scenarios, which could be noise"
+      ],
+      "costUsd": 0.07455110000000001,
+      "writeUsd": 0.044315999999999994
+    }
+  ]
 }
