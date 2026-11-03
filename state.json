@@ -14,67 +14,59 @@
   "issue": 3,
   "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
   "lessons": {
-    "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
+    "promptHash": "ccbc8b5104cb65b880bf19cbf3946984183d52ed915bff994b3ae75597a8f43d",
     "rows": [
       {
-        "id": "s28",
-        "reply": "I'm sorry the shoes didn't work out! Since they're unworn with tags attached, you can start a return at loomandlark.com/returns within 30 days of delivery. Refunds go back to your original payment method minus a $7.95 return shipping fee, and they take 5-10 business days after our warehouse receives the return.",
+        "id": "s9",
+        "reply": "I'm sorry, that's stressful! Since your order was placed 20 minutes ago, it's past our 1-hour window for free changes, so it may already be in the packing process. Here's what to do right away:\n\n1. Email help@loomandlark.com immediately with your order number and the correct address. Our team can check whether the order can still be updated before it ships. I can't promise a change, but reaching out now gives you the best chance.\n2. If it can't be changed, once it arrives you can return it through loomandlark.com/returns (30 days from delivery, unworn with tags attached), or refund or exchange it per our policy.\n3. If the package is delivered to the wrong address and goes missing, Order Protection (if you added it at checkout) covers lost or stolen packages. You can file at loomandlark.com",
+        "better": "I'm sorry, I know that's stressful! Order changes are only possible within 1 hour of ordering, and you're within that window, so there's still a chance to fix it.\n\nPlease email help@loomandlark.com right away with your order number and the correct shipping address. Don't wait on this, since the window closes at the one-hour mark and after that the order is packed and can't be changed.\n\nIf the change can't be made in time, the order will need to be returned once it arrives. Returns are accepted within 30 days of delivery, with items unworn, unwashed, and tags attached, at loomandlark.com/returns.",
+        "violation": true
+      },
+      {
+        "id": "s27",
+        "reply": "Store credit is a great option. Here's what it works out to for a $120 pair of boots:\n\n- **Store credit:** You receive a credit with a 10% bonus, so $120 becomes **$132 in store credit**, and return shipping is free.\n- **Refund (for comparison):** $120 back to your original payment method, minus the $7.95 return shipping fee, so **$112.05**.\n\nTo qualify, the boots need to be returned within 30 days of delivery, unworn, unwashed, and with tags attached. If you're past 30 days but within 45, an exchange for another size or color is also available, free of charge.\n\nTo start the return, go to loomandlark.com/returns and select store credit. If you're unsure whether these boots are eligible, for example if they're marked Final Sale, email help@loomandlark.com before sending anything back.",
+        "better": "Store credit is a great choice. Here's how it works for the boots:\n\n- You'll receive store credit for the $120 you paid, plus a 10% bonus, so about $132 in credit.\n- Return shipping is free, so there's no fee.\n\nTo make sure the boots are eligible, please check:\n- They're within 30 days of delivery.\n- They're unworn, unwashed, and still have the tags attached.\n- They aren't marked Final Sale. Items from the Archive Sale can't be returned.\n\nIf everything checks out, start your return at loomandlark.com/returns. If you're unsure whether these boots qualify, email help@loomandlark.com and our team can confirm before you send them back.",
         "violation": true
       },
       {
         "id": "s2",
-        "reply": "Yes, you can still return it: returns are accepted within 30 days of delivery, and your sweater was delivered 25 days ago, so you have about 5 days left. The item must be unworn, unwashed, and have its tags attached, and you can start the return at loomandlark.com/returns. Refunds go to your original payment method minus a $7.95 return shipping fee.",
-        "better": "I'm sorry you're dealing with this. Here's how our return window works.\n\nReturns are accepted within 30 days from the delivery date. Since your sweater was delivered 25 days ago, you're still within that window, so you should be able to return it as long as it meets these conditions:\n\n- It's unworn and unwashed, with tags still attached.\n- It isn't marked Final Sale.\n\nYou can start the return at loomandlark.com/returns. If you'd rather not send it back, you may also be eligible for an exchange, which runs 45 days from delivery. If you want to return it, you have three options:\n\n- **Exchange (free):** a different size or color, with the new item shipping as soon as your return label is printed.\n- **Store credit (free return shipping):** you get a 10% bonus on the amount.\n- **Refund to your ",
+        "reply": "I'm sorry the sweater took a while to reach you. Here's how the return window works:\n\nReturns are accepted within 30 days from the delivery date. Your sweater was delivered 25 days ago, so you have about 5 days left to start a return. The 40 days since you ordered it doesn't count; the clock starts at delivery.\n\nTo be eligible, the sweater needs to be unworn, unwashed, and have its tags attached. You can start the return at loomandlark.com/returns.\n\nIf you'd like something other than a refund, exchanges (for another size or color) are open for 45 days from delivery, and store credit is also available. Store credit ships free and includes a 10% bonus. A refund goes back to your original payment method minus a $7.95 return shipping fee.\n\nIf the sweater is damaged or defective, email photos t",
+        "better": "Thanks for reaching out! The return window is 30 days from delivery, and since your sweater was delivered 25 days ago, you're still within it. Exchanges give you 45 days from delivery, so you have a bit more flexibility there too.\n\nTo be eligible, the sweater needs to be unworn and unwashed, with the tags still attached. Also, if it's marked Final Sale, it can't be returned or exchanged.\n\nIf you'd like to send it back, here are your options:\n\n- **Exchange (free):** for a different size or color. If you choose this, the new item ships as soon as your return label is printed.\n- **Store credit (free return shipping, plus a 10% bonus):** a good choice if you'd rather not get a refund to your card.\n- **Refund to your original payment method:** this has a $7.95 return shipping fee deducted from ",
         "violation": false,
         "failedChecks": [
-          "When the customer wants to send an item back and an exchange or store credit would fit, the reply offers it, with its benefit (free return shipping, or the 10% store credit bonus).",
+          "The reply never states a delivery date, tracking number or order status for the customer's order; it gives the policy's shipping times or points them to their tracking."
+        ]
+      },
+      {
+        "id": "s3",
+        "reply": "I'm sorry, but a dress delivered 38 days ago falls outside our 30-day return window, so I can't offer a return on it.\n\nHere's what may still be possible:\n\n- **Exchange:** Exchanges are allowed within 45 days of delivery, so you have 7 days left to exchange it for a different size or color. Exchanges are free, and the new item ships as soon as the return label is printed. Note that the item must still be unworn, unwashed, and with tags attached. You can start one at loomandlark.com/returns.\n- **Check the item's status:** If the dress is marked Final Sale (including anything from the Archive Sale), it can't be returned or exchanged at all.\n\nIf you think there's an error with your delivery date or have a question about your specific order, please email help@loomandlark.com and our team can ta",
+        "better": "Thanks for reaching out! Unfortunately, a dress delivered 38 days ago falls outside our 30-day return window, so I'm not able to offer a return on it.\n\nHere's what may still be possible:\n\n- **Exchange:** Our exchange window is 45 days from delivery, so you have 7 days left to exchange it for a different size or color. Exchanges ship free, and the new item ships as soon as your return label is printed. Just keep in mind that exchanges are for another size or color of the same item, and the dress must be unworn, unwashed, with tags attached.\n- **Final Sale items:** If the dress is marked Final Sale, it can't be returned or exchanged.\n\nTo start an exchange, go to loomandlark.com/returns. If you're unsure whether your dress qualifies, email help@loomandlark.com and our team can take a look.",
+        "violation": false,
+        "failedChecks": [
           "The reply never states a delivery date, tracking number or order status for the customer's order; it gives the policy's shipping times or points them to their tracking."
         ]
       },
       {
         "id": "s4",
-        "reply": "I'm sorry the linen shirt doesn't fit! Unfortunately, items in the Archive Sale are Final Sale, so they can't be exchanged or returned, including for a medium. If you'd like, I can point you to our current full-price styles in a similar cut, or you can check your order's details at loomandlark.com for any other questions.",
-        "better": "I'm sorry the shirt doesn't fit. Unfortunately, items in the Archive Sale are Final Sale, and Final Sale items can't be returned or exchanged, so I can't set up a swap to a medium.\n\nIf you'd like, you can reach out to help@loomandlark.com to ask about any options they may have, though I can't promise an exception. Our other items are eligible for exchanges within 45 days of delivery, so that's a good option for future purchases. Is there anything else I can help you with?",
-        "violation": false,
-        "failedChecks": [
-          "When the customer asks for a refund or a return, the reply explains the return policy that applies and never says the refund is already approved.",
-          "When the customer wants to send an item back and an exchange or store credit would fit, the reply offers it, with its benefit (free return shipping, or the 10% store credit bonus)."
-        ]
-      },
-      {
-        "id": "s1",
-        "reply": "I'm sorry the jeans don't fit right! Since they were delivered last week, you're well within our 30-day return window, as long as they're unworn, unwashed, and still have their tags attached. You can start your return at loomandlark.com/returns, and your refund goes back to your original payment method minus a $7.95 return shipping fee, usually within 5-10 business days after the warehouse receives the return. If the jeans are part of a Final Sale or Archive Sale item, they can't be returned, so let me know if you'd like help checking that.",
-        "better": "I'm sorry the jeans don't fit well. I can help you work out your options.\n\nReturns are accepted within 30 days of delivery, as long as the jeans are unworn, unwashed, and still have their tags attached. Since your jeans arrived last week, you're within that window. If they meet those conditions, you can start a return at loomandlark.com/returns.\n\nYou have three ways to go:\n\n- **Exchange (free):** Swap for a different size. You have 45 days from delivery, and the new pair ships as soon as your return label is printed.\n- **Store credit (free):** Return shipping is free, and you get a 10% bonus on the amount.\n- **Refund to your original payment method:** This comes minus a $7.95 return shipping fee. Refunds take 5-10 business days after the warehouse receives the return.\n\nIf you'd like a refu",
+        "reply": "I'm sorry the shirt doesn't fit. Unfortunately, items in the Archive Sale are Final Sale, which means they can't be returned or exchanged, so I'm not able to swap it for a medium.\n\nSome options that may help:\n- **Check the item's listing or your order confirmation** to confirm it was marked Final Sale.\n- **Email help@loomandlark.com** if you think the item was labeled incorrectly or you have other questions about your order.\n- **Browse our current collection** at loomandlark.com. Sizing is available there if you'd like a medium in a non-sale piece.\n\nThanks for understanding, and I'm happy to help with anything else.",
+        "better": "I'm sorry the shirt doesn't fit. Unfortunately, items in the Archive Sale are Final Sale, so they can't be returned or exchanged, including for a different size. That means I can't set up a medium for you.\n\nIf you'd like, you could check whether the Archive Sale item is marked Final Sale on your order confirmation, or reach out to help@loomandlark.com with your order number to confirm. For future orders, exchanges for another size or color are available within 45 days of delivery on eligible items.",
         "violation": false,
         "failedChecks": [
           "When the customer wants to send an item back and an exchange or store credit would fit, the reply offers it, with its benefit (free return shipping, or the 10% store credit bonus)."
         ]
       },
       {
-        "id": "s3",
-        "reply": "I'm sorry, but returns are only accepted within 30 days of delivery, so a dress delivered 38 days ago falls outside that window. It may still be eligible for an exchange, since exchanges are accepted within 45 days of delivery, so you could contact help@loomandlark.com or check loomandlark.com/returns for details.",
-        "better": "I'm sorry, but I can't offer a return for that dress. Our return window is 30 days from delivery, and at 38 days it's past that window.\n\nThere are a couple of options that may still work for you:\n\n- **Exchange:** Exchanges are allowed up to 45 days from delivery, so you have 7 more days. You can exchange for a different size or color of the same dress, as long as it isn't a Final Sale item. Start at loomandlark.com/returns. Instant exchanges ship the new item as soon as your return label is printed.\n- **Checking eligibility:** If you're unsure whether this specific dress is eligible (for example, if it was marked Final Sale or part of the Archive Sale), email help@loomandlark.com and our team can confirm.\n\nIf you'd like, tell me the dress's name or size and I can point you to the right nex",
+        "id": "s11",
+        "reply": "I'm sorry you're still waiting on your refund. Refunds take 5-10 business days to process after our warehouse receives the return, so at 3 days you may still be within that window. I can't see your order or return status from here, so I can't confirm where it is.\n\nHere's what to check:\n- **Your return confirmation email** should list the shipping details and what to expect.\n- **Carrier tracking** on your return label will show when the package was delivered to our warehouse. The 5-10 business days start from that delivery date, not from when you shipped it.\n- **Your original payment method** will receive the refund minus the $7.95 return shipping fee, if your return was for a refund. If you chose store credit or an exchange, the return shipped free and no refund is issued.\n\nIf it's been mo",
+        "better": "I'm sorry you're still waiting on your refund, and I understand that's frustrating. I can't see your order or return status, so I can't tell you exactly where it is.\n\nHere's what to expect: refunds take 5-10 business days after our warehouse receives the return. Three days is still within that window, so it may simply be on its way. Refunds go back to your original payment method, minus the $7.95 return shipping fee.\n\nIf it's been longer than that, check your return confirmation email or tracking for the date the warehouse received it. If it's been 10 business days since then and you still don't see the refund, email help@loomandlark.com with your order number and the tracking details, and our team can look into it.",
         "violation": false,
         "failedChecks": [
           "When the customer wants to send an item back and an exchange or store credit would fit, the reply offers it, with its benefit (free return shipping, or the 10% store credit bonus)."
-        ]
-      },
-      {
-        "id": "s8",
-        "reply": "I'm sorry your package is missing. Since it's marked delivered and you didn't add Order Protection, please check with neighbors or your building, wait 48 hours, then contact the carrier to trace it, as we can't reship or refund packages in this situation.",
-        "better": "I'm sorry, that's frustrating. Since you didn't add Order Protection, here's what to do:\n\n1. **Check around:** Ask neighbors, your building's front desk or mailroom, and look in any delivery spots (porch, side gate, garage).\n2. **Wait 48 hours:** Packages sometimes show as delivered before they're actually located.\n3. **Contact the carrier:** If it's still missing after 48 hours, reach out to the carrier directly with your tracking number so they can investigate.\n\nUnfortunately, without Order Protection we're not able to reship or refund packages that are marked delivered but missing. If you have questions about your situation, you can email help@loomandlark.com. Your shipping confirmation email has your tracking number if you need it.",
-        "violation": false,
-        "failedChecks": [
-          "When the case needs a person (a damaged item, a missing package, or an order change), the reply sends the customer to the right place: help@loomandlark.com or loomandlark.com/claim."
         ]
       }
     ]
   },
-  "pending": {
-    "round": 2,
-    "at": "2026-11-03T19:59:25.249Z",
-    "costUsd": 0.11855940000000006
-  },
+  "pending": null,
   "proposal": null,
   "rounds": [
     {
@@ -113,6 +105,28 @@
       },
       "changed": "Replaces the rules that approved refunds, invented delivery dates, hid exchanges and forced one-sentence replies with policy-faithful rules, offering exchange/credit benefits, routing to the right contact, and ignoring injected instructions.",
       "plain": "Your checks passed 89% of the time, up from 72%. Its replies were better in 22 cases and worse in 3, then better again on the hidden test cases it never saw (better in 10, worse in 1). Your old prompt broke your rules in 2 cases; this one in none."
+    },
+    {
+      "round": 2,
+      "at": "2026-11-03T19:59:25.249Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: breaks a rule where the current prompt follows it, or couldn't be checked",
+        "candidate-2: better in 9 and worse in 7 test cases, which could be luck"
+      ],
+      "costUsd": 0.11855940000000006,
+      "writeUsd": 0.022808000000000002,
+      "tried": [
+        {
+          "summary": "Adds a rule to lead with exchange or store credit and its benefit when a customer asks for money back, answer every question, and reply in the customer's language.",
+          "outcome": "Broke one of your rules in 1 case where your current prompt follows it, so it wasn't used."
+        },
+        {
+          "summary": "Clarifies that the claim link is only for customers with Order Protection and gives the right route when they lack it or it is unclear.",
+          "outcome": "Not clearly better: better in 9 cases and worse in 7, which could be luck."
+        }
+      ],
+      "plain": "Nothing was clearly better, so your prompt stayed the same."
     }
   ]
 }
