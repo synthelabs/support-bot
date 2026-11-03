@@ -3,8 +3,10 @@ name: Synthe
 on:
   workflow_dispatch:
   schedule:
-    # init picks a random minute, so teams' runs don't all call Anthropic at the same moment.
-    - cron: "13 * * * *"
+    # A wake-up every 10 minutes, at a random offset init picks so teams don't all call at once. GitHub drops
+    # scheduled runs when it's busy (once, one hourly trigger in 16 hours), so frequent wake-ups make sure a round
+    # still happens about every hour; a wake-up that comes too soon after the last round exits in seconds.
+    - cron: "6-59/10 * * * *"
 concurrency:
   group: synthe
   cancel-in-progress: false
@@ -22,7 +24,7 @@ jobs:
       - uses: actions/checkout@v4
         with: { persist-credentials: false }
       - id: write
-        uses: synthelabs/synthe@v1
+        uses: synthelabs/synthe@claude/wakeups
         with:
           step: write
           github-token: ${{ github.token }}
@@ -46,7 +48,7 @@ jobs:
         with: { persist-credentials: false }
       - uses: actions/download-artifact@v4
         with: { name: candidates, path: .synthe-out }
-      - uses: synthelabs/synthe@v1
+      - uses: synthelabs/synthe@claude/wakeups
         with:
           step: score
           github-token: ${{ github.token }}
@@ -68,7 +70,7 @@ jobs:
       - uses: actions/download-artifact@v4
         continue-on-error: true
         with: { path: .synthe-out, merge-multiple: true }
-      - uses: synthelabs/synthe@v1
+      - uses: synthelabs/synthe@claude/wakeups
         with:
           step: decide
           github-token: ${{ github.token }}
