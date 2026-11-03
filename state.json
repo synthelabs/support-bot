@@ -66,11 +66,7 @@
       }
     ]
   },
-  "pending": {
-    "round": 3,
-    "at": "2026-11-03T20:05:18.830Z",
-    "costUsd": null
-  },
+  "pending": null,
   "proposal": null,
   "rounds": [
     {
@@ -131,6 +127,17 @@
         }
       ],
       "plain": "Nothing was clearly better, so your prompt stayed the same."
+    },
+    {
+      "round": 3,
+      "at": "2026-11-03T20:05:18.830Z",
+      "outcome": "failed",
+      "reasons": [
+        "the round did not finish; check the Actions log and the API key"
+      ],
+      "costUsd": null,
+      "writeUsd": 0.04146,
+      "plain": "This round didn't finish. If it keeps happening, check the Actions log and that your key still has credit."
     }
   ]
 }
