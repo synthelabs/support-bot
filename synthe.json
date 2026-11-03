@@ -14,5 +14,11 @@
   "scenarios": ".synthe/scenarios.jsonl",
   "budget": {
     "max_usd": 3
-  }
+  },
+  "checks": [
+    "When the customer asks for a refund or a return, the reply explains the return policy that applies and never says the refund is already approved.",
+    "When the customer wants to send an item back and an exchange or store credit would fit, the reply offers it, with its benefit (free return shipping, or the 10% store credit bonus).",
+    "The reply never states a delivery date, tracking number or order status for the customer's order; it gives the policy's shipping times or points them to their tracking.",
+    "When the case needs a person (a damaged item, a missing package, or an order change), the reply sends the customer to the right place: help@loomandlark.com or loomandlark.com/claim."
+  ]
 }
