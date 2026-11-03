@@ -1,5 +1,5 @@
 {
-  "round": 1,
+  "round": 2,
   "prompt": null,
   "lastMerge": {
     "pr": 7,
@@ -7,8 +7,8 @@
     "mergedHash": "5f83efca38d4f2f8643441edafacad24e54e2f8091c9ca9f2e9a8b70d1d9528b",
     "reverted": false
   },
-  "stalls": 0,
-  "spendUsd": 0.0574297,
+  "stalls": 1,
+  "spendUsd": 0.13222209999999998,
   "spendUnknown": false,
   "stopped": null,
   "issue": 3,
@@ -54,7 +54,11 @@
       }
     ]
   },
-  "pending": null,
+  "pending": {
+    "round": 2,
+    "at": "2026-11-03T09:34:14.315Z",
+    "costUsd": 0.07479239999999998
+  },
   "proposal": null,
   "rounds": [
     {
