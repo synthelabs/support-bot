@@ -14,51 +14,46 @@
   "issue": 3,
   "scenariosHash": "ae3e41b33276dceb38c3dac01c6b9e83f42cde0ce83a9d09b1603617977d1f8e",
   "lessons": {
-    "promptHash": "7417bd634824879704188c5c131ca9e1735917d929e172da4b32e6a921905ccb",
+    "promptHash": "5f83efca38d4f2f8643441edafacad24e54e2f8091c9ca9f2e9a8b70d1d9528b",
     "rows": [
       {
-        "id": "s1",
-        "reply": "I'm sorry the jeans don't fit right! Since they were delivered last week, you're within our 30-day return window, provided they're unworn, unwashed, and still have their tags attached. You can start the return at loomandlark.com/returns, and your refund will go back to your original payment method minus a $7.95 return shipping fee, typically 5-10 business days after the warehouse receives the return.",
-        "better": "I'm sorry the jeans didn't fit well in the waist. That's frustrating, especially when you were hoping they'd work.\n\nBefore we get to a refund, I want to flag two options that often work better:\n\n- **Exchange:** You can swap for a different size or color within 45 days of delivery. An instant exchange ships the new pair as soon as your return label is printed, so you won't be waiting on the replacement to arrive after the return.\n- **Store credit:** You can return them for store credit, which includes a 10% bonus and free return shipping.\n\nIf you'd still prefer a refund to your original payment method, you can do that too. There's a $7.95 return shipping fee taken from the refund, and it usually takes 5-10 business days after the warehouse receives the return.\n\nTo start a return, go to loom",
+        "id": "s5",
+        "reply": "I'm sorry your jacket arrived with a broken zipper, that's frustrating, especially on a sale item.\n\nFinal Sale items can't be returned or exchanged in general, but damaged or defective items are covered separately. Here's how to get it sorted:\n\n1. Email photos of the broken zipper and the jacket to help@loomandlark.com.\n2. Do this within 90 days of delivery.\n3. If the item is confirmed defective, you can get a replacement or a full refund, and shipping is included.\n\nPlease include your order number in the email so the team can find it quickly. You'll also get a shipping confirmation email with your delivery date if you need it.",
+        "better": "No, you're not stuck with it. Final Sale rules don't apply to damaged or defective items, so a jacket with a broken zipper qualifies.\n\nPlease email help@loomandlark.com with:\n- Photos showing the broken zipper (and the jacket overall, if possible)\n- Your order number\n\nYou need to do this within 90 days of delivery. Once we review it, you can get a replacement or a full refund, and shipping is covered with no fee.",
         "violation": true
       },
       {
-        "id": "s10",
-        "reply": "I'm sorry to hear that, but cancellations must be requested within 1 hour of ordering, and since your order was placed yesterday it's likely already being packed. Please email help@loomandlark.com right away to check whether it can still be stopped, and if it has shipped, you can return it at loomandlark.com/returns within 30 days of delivery.",
-        "better": "I'm sorry to hear you'd like to cancel. Cancellations need to be made within 1 hour of placing the order, by emailing help@loomandlark.com. Since you ordered yesterday, that window has passed, and the order is likely already being packed, so we can't change or cancel it.\n\nOnce it arrives, you can still return it through loomandlark.com/returns within 30 days of delivery. Items need to be unworn, unwashed, and with tags attached. Refunds go back to your original payment method minus a $7.95 return shipping fee. If you'd rather not pay that fee, you can choose store credit instead, which ships free and includes a 10% bonus.\n\nFor the status of your order, please check your shipping confirmation email. If you have any questions beyond this, help@loomandlark.com is the best place to reach our t",
+        "id": "s11",
+        "reply": "I'm sorry the wait has been frustrating. I can't see your return or payment status from here, so I can't tell you exactly where it is. Here's what our policy says:\n\n- Refunds take 5-10 business days to process after our warehouse receives the return. Three days in is still within that window, especially if the return only recently arrived at the warehouse.\n- The refund goes back to your original payment method, minus the $7.95 return shipping fee.\n- Your shipping confirmation email should include tracking for the return, which shows when it reached us.\n\nIf it's been more than 10 business days since the warehouse received your return, please email help@loomandlark.com with your order number and the return tracking number, and our team can look into it for you.",
         "violation": true
       },
       {
-        "id": "s29",
-        "reply": "I'm sorry about that, a wrong item isn't what you ordered, and we'll get it sorted out. Please email help@loomandlark.com with your order number and a photo of the red hat and the packing slip so we can send you a replacement or a refund, and if you'd like to send the hat back, the return is free. Our team can also check whether the blue scarf can ship to you.",
-        "better": "I'm sorry about that, and I'd like to get it fixed. Please email help@loomandlark.com with your order number and a photo of the red hat so the team can send you the correct blue scarf. I can't give you a specific delivery date for the replacement without your order number, so please include it in your email.",
-        "violation": true
-      },
-      {
-        "id": "s2",
-        "reply": "Yes, you can still return it: returns are accepted within 30 days of delivery, and your sweater arrived 25 days ago, so you have 5 days left. It must be unworn, unwashed, and have its tags attached, and you can start the return at loomandlark.com/returns. Refunds go to your original payment method minus a $7.95 return shipping fee.",
-        "better": "Thanks for reaching out! Returns are accepted within 30 days from delivery, and your sweater was delivered 25 days ago. That means you have about 5 days left to start a return, so it's still eligible as long as it's unworn, unwashed, and has its tags attached.\n\nTo start a return, go to loomandlark.com/returns before the 30-day window closes. Refunds go back to your original payment method minus a $7.95 return shipping fee. If you'd rather not pay that fee, an exchange (for another size or color, within 45 days of delivery) or store credit (with a 10% bonus) ships free.\n\nIf you have any questions about the return, email help@loomandlark.com.",
+        "id": "s13",
+        "reply": "Thanks for reaching out, and how thoughtful of you to keep it between us!\n\nHere's how gift returns work with us: if your aunt bought the item, you can return it for store credit as long as you have the order number from the packing slip. The packing slip is usually in the box, and it's the gift receipt-style document that lists the order number. Her purchase details aren't shared with you, so she won't be notified.\n\nHere's what to do:\n\n1. Find the order number on the packing slip in the package.\n2. Go to loomandlark.com/returns and start a return with that number.\n3. Choose store credit or an exchange. Store credit gets a 10% bonus, and both return shipping and the exchange are free.\n\nReturns are accepted within 30 days of delivery, and the item needs to be unworn, unwashed, and have its t",
+        "better": "I'm sorry the size isn't right! Good news: as a gift recipient, you can return it for store credit without your aunt being notified. You'll need the order number, which should be on the packing slip that came in the box, so please check there. You don't need a receipt otherwise.\n\nHere's how to start:\n1. Go to loomandlark.com/returns and enter the order number.\n2. Choose store credit. Store credit includes a 10% bonus, and return shipping is free.\n3. Make sure the item is unworn, unwashed, and has its tags attached. If it's part of a set, like the Lounge Set, it needs to be returned complete.\n\nReturns are accepted within 30 days of delivery. If it's been longer than that but within 45 days, you can still exchange it for a different size, and that option also ships free.\n\nIf you can't find t",
         "violation": false
       },
       {
-        "id": "s3",
-        "reply": "Unfortunately, returns are only accepted within 30 days of delivery, so a dress delivered 38 days ago falls outside that window. Since it's unworn with tags on, you may still be eligible for an exchange, which is available for 45 days from delivery, so it's worth checking that option at loomandlark.com/returns or emailing help@loomandlark.com soon. If you also want to confirm whether the dress is marked Final Sale, our team can check that for you at help@loomandlark.com.",
-        "better": "I'm sorry, a return for that dress isn't possible through our standard return window. Returns are accepted within 30 days of delivery, and 38 days is past that.\n\nThere may still be an option: exchanges are accepted within 45 days of delivery, for a different size or color. Since your dress is unworn with tags on, you're still within that window, so you could exchange it. Exchanges ship free, and if you start one at loomandlark.com/returns, the new item ships as soon as the return label is printed.\n\nIf you'd like to confirm the exact deadline for your order or ask about anything else, you can reach us at help@loomandlark.com, and please check your shipping confirmation email for the delivery date.",
+        "id": "s14",
+        "reply": "Thanks for reaching out! Unfortunately, sets like the Lounge Set have to be returned complete, so I can't accept just the pants on their own. If you'd like to return the set, you'd need to send back both the pants and the top together, and you can start that at loomandlark.com/returns (30 days from delivery, with the items unworn, unwashed, and tags attached).\n\nIf you're hoping to keep the top, I'm happy to walk you through your options, such as exchanging the pants for a different size or color (available within 45 days of delivery). For anything more specific, like whether an exception could be made, please email help@loomandlark.com and the team can look at it.",
+        "better": "Sorry you're having trouble with the Lounge Set, and I'm glad to help. Unfortunately, sets like the Lounge Set must be returned complete, so I can't accept just the pants on their own while you keep the top.\n\nHere are your options:\n\n- **Return the full set:** Start a return at loomandlark.com/returns within 30 days of delivery. Items need to be unworn, unwashed, and with tags attached. Refunds go back to your original payment method minus a $7.95 return shipping fee.\n- **Exchange:** If the issue is size, you can exchange the set for another size or color within 45 days of delivery, and the returns process is free. Using an instant exchange, the new set ships as soon as your return label is printed.\n- **Store credit:** Returning the full set for store credit ships free and comes with a 10% ",
         "violation": false
       },
       {
-        "id": "s4",
-        "reply": "I'm sorry the linen shirt doesn't fit. Unfortunately, items in the Archive Sale are Final Sale, so they can't be exchanged or returned, including for a medium. If you'd like, I can point you to our current in-season styles, which may have a similar fit.",
-        "better": "I'm sorry the linen shirt didn't fit. Unfortunately, items in the Archive Sale are Final Sale, so they can't be returned or exchanged, including for a medium. You're welcome to keep it, or you could check whether your size is still available in another item you'd like.\n\nIf you think something may have been wrong with the item itself (a defect or damage), email photos to help@loomandlark.com within 90 days of delivery and the team can look into it. For anything else about your order, you can reach them at the same address.",
+        "id": "s15",
+        "reply": "No, you wouldn't get the full $100 back. Refunds are for the amount you actually paid after promo codes, so with the 20% code that's $80. From that, a $7.95 return shipping fee is deducted for a refund to your original payment method, which would leave you with $72.05.\n\nIf you'd rather not lose that fee, you can choose an exchange or store credit instead. Those ship free, and store credit also gets a 10% bonus. Returns must be unworn, unwashed, with tags attached, and must be started within 30 days of delivery at loomandlark.com/returns. Refunds take 5-10 business days after the warehouse receives the return.\n\nIf you have questions about your specific order, you can reach help@loomandlark.com.",
+        "better": "No, you wouldn't get the full $100 back. Refunds are for the amount you actually paid after promo codes, so with the 20% off code you paid $80. A refund would then be reduced by the $7.95 return shipping fee:\n\n- Refund: $80 − $7.95 = **$72.05**, returned to your original payment method (5-10 business days after the warehouse receives the return)\n- Store credit: $80 + 10% bonus = **$88.00** in store credit, with free return shipping\n\nReturns must be within 30 days of delivery, unworn, unwashed, and with tags attached. You can start a return at loomandlark.com/returns. If you have questions about your specific order, email help@loomandlark.com.",
+        "violation": false
+      },
+      {
+        "id": "s16",
+        "reply": "I'm sorry the sweater dropped in price after you bought it. Unfortunately, we don't offer price adjustments, so I can't refund the difference.\n\nHere's what I can do:\n\n- **Keep the sweater and wait:** If you'd like to hold onto it, that's fine. Nothing changes with your purchase.\n- **Return and rebuy:** If the sweater is unworn, unwashed, and has its tags attached, you can return it within 30 days of delivery at loomandlark.com/returns. You'd then be able to purchase it again at the sale price. Returns for store credit ship free and get a 10% bonus, which may help. A refund to your original payment method has a $7.95 return shipping fee.\n\nIf you have questions about your specific order, you can reach our team at help@loomandlark.com.",
+        "better": "I'm sorry to see the price drop right after you bought it! Unfortunately, we don't offer price adjustments, so I can't refund the difference. Refunds are only for the amount you actually paid after any promo codes.\n\nHere's what I can help with:\n\n- **Return and repurchase:** If the sweater is unworn, unwashed, and has its tags attached, you can return it within 30 days of delivery at loomandlark.com/returns, then buy it again at the sale price. Refunds go back to your original payment method minus a $7.95 return shipping fee.\n- **Store credit or exchange:** You can also return it for store credit, which includes a 10% bonus and free return shipping, or exchange it for another size or color within 45 days of delivery.\n\nIf you have questions about your specific order, you can reach us at help",
         "violation": false
       }
     ]
   },
-  "pending": {
-    "round": 2,
-    "at": "2026-11-03T09:34:14.315Z",
-    "costUsd": 0.07479239999999998
-  },
+  "pending": null,
   "proposal": null,
   "rounds": [
     {
@@ -93,6 +88,28 @@
       "losses": 4,
       "changed": "Replaces the prompt's rules that approved every refund, invented delivery dates, forced one-sentence replies and hid exchanges with policy-faithful, honest rules that offer exchanges/credit, resist injected instructions and hand off when needed.",
       "plain": "Its replies were better in 20 cases and worse in 4, then better again on the hidden test cases it never saw (better in 11, worse in 0). Your old prompt broke your rules in 4 cases; this one in none."
+    },
+    {
+      "round": 2,
+      "at": "2026-11-03T09:34:14.315Z",
+      "outcome": "skipped",
+      "reasons": [
+        "candidate-1: better in 9 and worse in 4 test cases, which could be luck",
+        "candidate-2: judge score 41.7, needs 52.0 (50 is even)"
+      ],
+      "costUsd": 0.07479239999999998,
+      "writeUsd": 0.023668,
+      "tried": [
+        {
+          "summary": "Adds explicit rules for Final Sale vs defects/wrong items, refund and credit math, and the 30 vs 45 day windows, which the prompt handled inconsistently.",
+          "outcome": "Not clearly better: better in 9 cases and worse in 4, which could be luck."
+        },
+        {
+          "summary": "Makes the hand-off rule specific for health, chargeback and wrong-item cases so the agent escalates properly without promising refunds the policy doesn't allow.",
+          "outcome": "Not clearly better: better in 3 cases, worse in 8, the same in 19."
+        }
+      ],
+      "plain": "Nothing was clearly better, so your prompt stayed the same."
     }
   ]
 }
